@@ -37,11 +37,9 @@ const rl = readline.createInterface({
                       
                         contador++
                         console.log(contador +' com sucesso');
-                    });
-                                  
+                    });                               
                
-                })
-                
+                })               
  
         });
 
